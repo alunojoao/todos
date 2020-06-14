@@ -1,0 +1,11 @@
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\bin\Debug\netcoreapp3.1\ProCalculadora.exe
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\bin\Debug\netcoreapp3.1\ProCalculadora.deps.json
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\bin\Debug\netcoreapp3.1\ProCalculadora.runtimeconfig.json
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\bin\Debug\netcoreapp3.1\ProCalculadora.runtimeconfig.dev.json
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\bin\Debug\netcoreapp3.1\ProCalculadora.dll
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\bin\Debug\netcoreapp3.1\ProCalculadora.pdb
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\obj\Debug\netcoreapp3.1\ProCalculadora.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\obj\Debug\netcoreapp3.1\ProCalculadora.AssemblyInfoInputs.cache
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\obj\Debug\netcoreapp3.1\ProCalculadora.AssemblyInfo.cs
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\obj\Debug\netcoreapp3.1\ProCalculadora.dll
+C:\Users\heber\source\repos\ProCalculadora\ProCalculadora\obj\Debug\netcoreapp3.1\ProCalculadora.pdb

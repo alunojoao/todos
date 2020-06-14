@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProCalculadora/1.0.0": {
+        "runtime": {
+          "ProCalculadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProCalculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

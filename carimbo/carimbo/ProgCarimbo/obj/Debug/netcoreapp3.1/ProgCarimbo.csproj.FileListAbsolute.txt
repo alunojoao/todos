@@ -1,0 +1,13 @@
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\bin\Debug\netcoreapp3.1\ProgCarimbo.exe
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\bin\Debug\netcoreapp3.1\ProgCarimbo.deps.json
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\bin\Debug\netcoreapp3.1\ProgCarimbo.runtimeconfig.json
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\bin\Debug\netcoreapp3.1\ProgCarimbo.runtimeconfig.dev.json
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\bin\Debug\netcoreapp3.1\ProgCarimbo.dll
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\bin\Debug\netcoreapp3.1\ProgCarimbo.pdb
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\obj\Debug\netcoreapp3.1\ProgCarimbo.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\obj\Debug\netcoreapp3.1\ProgCarimbo.csproj.CoreCompileInputs.cache
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\obj\Debug\netcoreapp3.1\ProgCarimbo.AssemblyInfoInputs.cache
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\obj\Debug\netcoreapp3.1\ProgCarimbo.AssemblyInfo.cs
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\obj\Debug\netcoreapp3.1\ProgCarimbo.dll
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\obj\Debug\netcoreapp3.1\ProgCarimbo.pdb
+C:\Users\heber\source\repos\ProgCarimbo\ProgCarimbo\obj\Debug\netcoreapp3.1\ProgCarimbo.genruntimeconfig.cache

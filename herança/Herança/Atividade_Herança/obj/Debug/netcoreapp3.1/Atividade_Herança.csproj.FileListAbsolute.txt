@@ -1,0 +1,13 @@
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\bin\Debug\netcoreapp3.1\Atividade_Herança.exe
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\bin\Debug\netcoreapp3.1\Atividade_Herança.deps.json
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\bin\Debug\netcoreapp3.1\Atividade_Herança.runtimeconfig.json
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\bin\Debug\netcoreapp3.1\Atividade_Herança.runtimeconfig.dev.json
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\bin\Debug\netcoreapp3.1\Atividade_Herança.dll
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\bin\Debug\netcoreapp3.1\Atividade_Herança.pdb
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\obj\Debug\netcoreapp3.1\Atividade_Herança.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\obj\Debug\netcoreapp3.1\Atividade_Herança.csproj.CoreCompileInputs.cache
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\obj\Debug\netcoreapp3.1\Atividade_Herança.AssemblyInfoInputs.cache
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\obj\Debug\netcoreapp3.1\Atividade_Herança.AssemblyInfo.cs
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\obj\Debug\netcoreapp3.1\Atividade_Herança.dll
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\obj\Debug\netcoreapp3.1\Atividade_Herança.pdb
+C:\Users\heber\source\repos\Atividade_Herança\Atividade_Herança\obj\Debug\netcoreapp3.1\Atividade_Herança.genruntimeconfig.cache

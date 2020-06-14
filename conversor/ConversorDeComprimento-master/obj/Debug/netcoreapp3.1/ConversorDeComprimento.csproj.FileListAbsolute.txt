@@ -1,0 +1,11 @@
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.exe
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.deps.json
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.runtimeconfig.json
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.runtimeconfig.dev.json
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.dll
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.pdb
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.AssemblyInfoInputs.cache
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.AssemblyInfo.cs
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.dll
+C:\Users\heber\source\repos\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.pdb

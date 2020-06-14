@@ -1,0 +1,13 @@
+c:\users\administrador\documents\visual studio 2015\Projects\ProjFutebol_01\ProjFutebol_01\bin\Debug\ProjFutebol_01.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\ProjFutebol_01\ProjFutebol_01\bin\Debug\ProjFutebol_01.exe
+c:\users\administrador\documents\visual studio 2015\Projects\ProjFutebol_01\ProjFutebol_01\bin\Debug\ProjFutebol_01.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\ProjFutebol_01\ProjFutebol_01\obj\Debug\ProjFutebol_01.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\ProjFutebol_01\ProjFutebol_01\obj\Debug\ProjFutebol_01.exe
+c:\users\administrador\documents\visual studio 2015\Projects\ProjFutebol_01\ProjFutebol_01\obj\Debug\ProjFutebol_01.pdb
+C:\Users\heber\Source\Repos\ProjetoTime\ProjFutebol_01\bin\Debug\ProjFutebol_01.exe.config
+C:\Users\heber\Source\Repos\ProjetoTime\ProjFutebol_01\bin\Debug\ProjFutebol_01.exe
+C:\Users\heber\Source\Repos\ProjetoTime\ProjFutebol_01\bin\Debug\ProjFutebol_01.pdb
+C:\Users\heber\Source\Repos\ProjetoTime\ProjFutebol_01\obj\Debug\ProjFutebol_01.csprojAssemblyReference.cache
+C:\Users\heber\Source\Repos\ProjetoTime\ProjFutebol_01\obj\Debug\ProjFutebol_01.csproj.CoreCompileInputs.cache
+C:\Users\heber\Source\Repos\ProjetoTime\ProjFutebol_01\obj\Debug\ProjFutebol_01.exe
+C:\Users\heber\Source\Repos\ProjetoTime\ProjFutebol_01\obj\Debug\ProjFutebol_01.pdb
